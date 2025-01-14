@@ -1,0 +1,242 @@
+[
+  {
+    "device": "LampBright 3000",
+    "manufacturer": "LumenTech",
+    "productId": "LB3000-001",
+    "brightness": 75,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "AuraLight X2",
+    "manufacturer": "SmartGlow",
+    "productId": "ALX2-045",
+    "brightness": 50,
+    "energySavingMode": false,
+    "isOn": false
+  },
+  {
+    "device": "GlowSphere Pro",
+    "manufacturer": "LumaNova",
+    "productId": "GSP-213",
+    "brightness": 90,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "BrightWave Mini",
+    "manufacturer": "OptiLux",
+    "productId": "BWM-110",
+    "brightness": 60,
+    "energySavingMode": false,
+    "isOn": true
+  },
+  {
+    "device": "EcoLamp V5",
+    "manufacturer": "GreenLights",
+    "productId": "ELV5-789",
+    "brightness": 40,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "LumaSphere Ultra",
+    "manufacturer": "LumaNova",
+    "productId": "LSU-321",
+    "brightness": 85,
+    "energySavingMode": false,
+    "isOn": true
+  },
+  {
+    "device": "SmartGlow Ambient",
+    "manufacturer": "SmartGlow",
+    "productId": "SGA-902",
+    "brightness": 70,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "LumenX Pro",
+    "manufacturer": "LumenTech",
+    "productId": "LXP-054",
+    "brightness": 95,
+    "energySavingMode": false,
+    "isOn": true
+  },
+  {
+    "device": "NovaLight Air",
+    "manufacturer": "NovaBright",
+    "productId": "NLA-333",
+    "brightness": 30,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "OptiLux Neo",
+    "manufacturer": "OptiLux",
+    "productId": "ON-456",
+    "brightness": 80,
+    "energySavingMode": false,
+    "isOn": true
+  },
+  {
+    "device": "ZeniLamp 100",
+    "manufacturer": "ZeniTech",
+    "productId": "ZL100-007",
+    "brightness": 65,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "BrightGlow Flex",
+    "manufacturer": "BrightTech",
+    "productId": "BGF-600",
+    "brightness": 55,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "AmbientFlow Smart",
+    "manufacturer": "FlowLight",
+    "productId": "AFS-893",
+    "brightness": 45,
+    "energySavingMode": false,
+    "isOn": false
+  },
+  {
+    "device": "HaloLux V2",
+    "manufacturer": "LumaNova",
+    "productId": "HLV2-102",
+    "brightness": 100,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "EcoGlow Compact",
+    "manufacturer": "GreenLights",
+    "productId": "EGC-567",
+    "brightness": 35,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "PulseLight X",
+    "manufacturer": "PulseTech",
+    "productId": "PLX-980",
+    "brightness": 25,
+    "energySavingMode": false,
+    "isOn": false
+  },
+  {
+    "device": "LumaRing 360",
+    "manufacturer": "LumaNova",
+    "productId": "LR360-431",
+    "brightness": 90,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "NeoWave Bright",
+    "manufacturer": "NeoTech",
+    "productId": "NWB-220",
+    "brightness": 70,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "GlowStar Mini",
+    "manufacturer": "StarBright",
+    "productId": "GSM-010",
+    "brightness": 50,
+    "energySavingMode": false,
+    "isOn": false
+  },
+  {
+    "device": "BrightPod Air",
+    "manufacturer": "PodLights",
+    "productId": "BPA-105",
+    "brightness": 65,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "LumaGlow Eco",
+    "manufacturer": "LumaNova",
+    "productId": "LGE-701",
+    "brightness": 60,
+    "energySavingMode": false,
+    "isOn": false
+  },
+  {
+    "device": "ZeniWave Pro",
+    "manufacturer": "ZeniTech",
+    "productId": "ZWP-120",
+    "brightness": 85,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "OptiLux Smart",
+    "manufacturer": "OptiLux",
+    "productId": "OLS-212",
+    "brightness": 75,
+    "energySavingMode": true,
+    "isOn": true
+  },
+  {
+    "device": "GlowNova Light",
+    "manufacturer": "NovaBright",
+    "productId": "GNL-442",
+    "brightness": 95,
+    "energySavingMode": false,
+    "isOn": true
+  },
+  {
+    "device": "EcoSphere Plus",
+    "manufacturer": "GreenLights",
+    "productId": "ESP-311",
+    "brightness": 40,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "HaloGlow X",
+    "manufacturer": "LumaNova",
+    "productId": "HGX-910",
+    "brightness": 30,
+    "energySavingMode": false,
+    "isOn": false
+  },
+  {
+    "device": "BrightLume Eco",
+    "manufacturer": "BrightTech",
+    "productId": "BLE-908",
+    "brightness": 45,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "GlowSphere Mini",
+    "manufacturer": "LumaNova",
+    "productId": "GSM-555",
+    "brightness": 55,
+    "energySavingMode": false,
+    "isOn": true
+  },
+  {
+    "device": "PulseRing Neo",
+    "manufacturer": "PulseTech",
+    "productId": "PRN-120",
+    "brightness": 20,
+    "energySavingMode": true,
+    "isOn": false
+  },
+  {
+    "device": "NovaBeam Ultra",
+    "manufacturer": "NovaBright",
+    "productId": "NBU-663",
+    "brightness": 80,
+    "energySavingMode": false,
+    "isOn": true
+  }
+]
