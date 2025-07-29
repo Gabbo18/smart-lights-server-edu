@@ -24,6 +24,9 @@ app.use(compression({
     }
 }));
 
+const cors = require('cors');
+app.use(cors({ origin: '*', credentials: true }));
+
 const apiKeyChecker = require("./middlewares/api-key-checker.middleware");
 app.use(apiKeyChecker);
 
