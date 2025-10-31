@@ -11,7 +11,7 @@ module.exports = async (req, _, next) => {
         if (!req.headers[authHeader]) return next(new HttpError(401, errorMessage401));
         const accessToken = req.headers[authHeader].split(" ")[1].toString().trim();
         const tokenData = jwt.verify(accessToken, process.env.JWT_SECRET, {
-            algorithms: process.env.JWT_ALGORITHM,
+            algorithms: [process.env.JWT_ALGORITHM],
             complete: false
         });
         req.token = Object.assign({ jwt: accessToken }, tokenData);
