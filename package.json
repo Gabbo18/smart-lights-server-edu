@@ -16,11 +16,9 @@
     "cors": "^2.8.6",
     "dotenv": "^17.2.3",
     "express": "^4.21.2",
-    "fs": "^0.0.1-security",
     "jsonwebtoken": "^9.0.3",
     "moment-timezone": "^0.6.0",
     "mongoose": "^8.9.3",
-    "path": "^0.12.7",
     "response-time": "^2.3.4",
     "serve-favicon": "^2.5.1",
     "uuid": "^13.0.0"
